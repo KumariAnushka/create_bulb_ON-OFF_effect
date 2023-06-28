@@ -1,2 +1,2 @@
 # create_bulb_ON-OFF_effect
-I developed this Analog clock website using HTML CSS JS language.
+I  created this  bulb on-off effect website using HTML CSS JS language.
